@@ -8,6 +8,7 @@ fields:
   name: tags
   description: tags use to help
 pages:
+- content/support/asdfasdfs.md
 - content/support/my-page-1.md
 - content/support/my-page-2.md
 - content/support/my-page-3.md
